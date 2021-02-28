@@ -1,0 +1,1 @@
+Contains the python notebook of the HAR model
