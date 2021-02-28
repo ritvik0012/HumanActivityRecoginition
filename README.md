@@ -1,1 +1,3 @@
 # HumanActivityRecoginition
+A conventional fitness app would require the user to manually enter the type of activity. But here using the accelerometer sensor present in smartphones, each type of activity would be recognized and recorded in the device without any human intervention.
+We construct a Convolutional Neural Network (CNN) to identify human activities using the data collected from the three-axis accelerometer integrated in users’ smartphones. The daily human activities that are chosen to be recognized include walking, jogging, sitting, standing, upstairs and downstairs. The three-dimensional (3D) raw accelerometer data is directly used as the input for training the CNN without any complex pretreatment.
